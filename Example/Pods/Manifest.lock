@@ -1,0 +1,16 @@
+PODS:
+  - YXModuleExample (0.1.0)
+
+DEPENDENCIES:
+  - YXModuleExample (from `../`)
+
+EXTERNAL SOURCES:
+  YXModuleExample:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  YXModuleExample: fcce9758103f24a7b929b881cf54e2bb3b79eefc
+
+PODFILE CHECKSUM: 9d3e87d37e45610dcc51b593186b722647c7782d
+
+COCOAPODS: 1.9.1

@@ -1,0 +1,22 @@
+{
+  "name": "YXModuleExample",
+  "version": "0.1.0",
+  "summary": "A short description of YXModuleExample.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/sunchunhui/YXModuleExample",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "sunchunhui": "sunchunhui@aiyunxiao.com"
+  },
+  "source": {
+    "git": "https://github.com/sunchunhui/YXModuleExample.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "YXModuleExample/Classes/**/*"
+}
